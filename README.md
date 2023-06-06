@@ -51,7 +51,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreXi&theme=graywhite" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndreXi&theme=graywhite&utcOffset=-4" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreXi&hide_border=true&card_width=338&theme=graywhite" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreXi&langs_count=4&hide=cmake,html,css&layout=default&card_width=300&hide_border=true&theme=graywhite" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreXi&hide=cmake,html,css&card_width=300&hide_border=true&theme=graywhite" />
 </p>
 </details>
 
